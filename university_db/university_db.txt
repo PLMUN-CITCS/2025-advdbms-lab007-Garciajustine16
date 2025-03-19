@@ -1,0 +1,6 @@
+university_db/
+├── insert_courses.sql
+├── insert_enrollments.sql
+├── select_all_students.sql
+├── select_students_by_enrollment_date.sql
+└── join_students_and_enrollments.sql
